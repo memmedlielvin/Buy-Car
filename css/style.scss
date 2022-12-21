@@ -7,10 +7,8 @@ body {
   padding: 0;
   width: 100%;
   height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 1rem 0;
+
+  padding: 2rem 0;
 }
 
 * {
@@ -228,7 +226,7 @@ body {
       }
 
       .choosen-car {
-        width: 50%;
+        width: 40%;
       }
       @keyframes start {
         0% {
